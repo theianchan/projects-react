@@ -1,0 +1,16 @@
+.world-map {
+  .row {
+    display: block;
+    .cell {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+    }
+    .cell--empty {
+      background-color: #F2F2F2;
+    }
+    .cell--player {
+      background-color: #333;
+    }
+  }
+}

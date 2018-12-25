@@ -1,0 +1,12 @@
+.world-map .row {
+  display: block; }
+  .world-map .row .cell {
+    display: inline-block;
+    width: 30px;
+    height: 30px; }
+  .world-map .row .cell--empty {
+    background-color: #F2F2F2; }
+  .world-map .row .cell--player {
+    background-color: #333; }
+
+/*# sourceMappingURL=style.css.map */

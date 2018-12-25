@@ -1,0 +1,34 @@
+.recipe-box {
+  margin: 60px auto; }
+  .recipe-box .recipe-box__title {
+    font-size: 24px; }
+  .recipe-box .recipe-box__list {
+    margin: 30px 0;
+    border-radius: 6px;
+    overflow: hidden; }
+  .recipe-box .accordion-title {
+    font-size: 18px;
+    transition-duration: 300ms; }
+  .recipe-box .ingredients__title {
+    font-size: 18px; }
+  .recipe-box hr {
+    border-color: #e6e6e6; }
+  .recipe-box .ingredients__list {
+    list-style: none;
+    margin: 0 0 30px; }
+  .recipe-box .ingredients__item {
+    margin: 0 0 8px; }
+  .recipe-box .reveal {
+    padding: 45px 25px;
+    border-radius: 6px;
+    overflow: hidden; }
+    .recipe-box .reveal textarea {
+      margin-bottom: 30px;
+      min-height: 100px; }
+    .recipe-box .reveal input[type=submit] {
+      margin-right: 1px; }
+  .recipe-box .reveal__title {
+    font-size: 24px;
+    margin-bottom: 30px; }
+
+/*# sourceMappingURL=style.css.map */
